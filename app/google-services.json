@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "182857226400",
+    "firebase_url": "https://artoura7a.firebaseio.com",
+    "project_id": "artoura7a",
+    "storage_bucket": "artoura7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182857226400:android:8036aa6a2b67cd65",
+        "android_client_info": {
+          "package_name": "a7aent.com.artour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182857226400-quu2s6dit4q352ur2cb7cpv4dbfjj7uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "a7aent.com.artour",
+            "certificate_hash": "15e8968d1b41fdc701f89a62c9072748104ddeb3"
+          }
+        },
+        {
+          "client_id": "182857226400-1cdbh1vb9821o0rob6bkthb4nr4kr9aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQnBgOVmiLQIKbnzEa_IDBmh4BBdDrVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182857226400-1cdbh1vb9821o0rob6bkthb4nr4kr9aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
